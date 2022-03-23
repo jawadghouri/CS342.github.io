@@ -13,6 +13,10 @@ body {
     text-align: center;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .social li {
     list-style-type: none;
     display: inline;
